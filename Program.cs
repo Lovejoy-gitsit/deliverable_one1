@@ -34,10 +34,13 @@ namespace mc
                     digits = Convert.ToInt32(n1[i].ToString()) + Convert.ToInt32(n2[i].ToString());
                     digits2 = Convert.ToInt32(n1[i + 1].ToString()) + Convert.ToInt32(n2[i + 1].ToString());
 
+                
+
                     //check if numbers are equal and counter equals 2
                     if (digits == digits2 && counter == 2)
                     {
                         Console.WriteLine("true");
+                        //Console.WriteLine("Sum: " + digits);
                         Console.ReadLine();
                         break;
                     }
@@ -48,8 +51,12 @@ namespace mc
                     else
                     {
                         Console.WriteLine("False");
+                        Console.ReadLine();
+                        
                         break;
                     }
+                        
+                    
                 }
 
 

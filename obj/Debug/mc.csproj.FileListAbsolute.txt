@@ -1,0 +1,7 @@
+C:\Users\nelto\source\repos\mc\bin\Debug\mc.exe.config
+C:\Users\nelto\source\repos\mc\bin\Debug\mc.exe
+C:\Users\nelto\source\repos\mc\bin\Debug\mc.pdb
+C:\Users\nelto\source\repos\mc\obj\Debug\mc.csprojResolveAssemblyReference.cache
+C:\Users\nelto\source\repos\mc\obj\Debug\mc.csproj.CoreCompileInputs.cache
+C:\Users\nelto\source\repos\mc\obj\Debug\mc.exe
+C:\Users\nelto\source\repos\mc\obj\Debug\mc.pdb
